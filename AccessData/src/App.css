@@ -1,0 +1,10 @@
+.p {
+  padding-left: 20px;
+  font-size: 20px;
+  color: gray;
+}
+
+.p span {
+  color: rgb(91, 57, 178);
+  font-weight: 600;
+}
